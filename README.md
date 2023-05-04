@@ -6,7 +6,7 @@
 
 The main aim of the project was to perform basic calculations on mathematical functions, statistical functions,etc
 
-The Basic Calculation was performed using Data Structures like lists, dictionary,etc., while using functions like Print, Output, sum, avg, max, etc., and using Loops like 'for loop' and 'while loop' wherever necessary. 
+The Basic Calculation was performed using Data Structures like lists, dictionary,etc., while using functions like print(), input(), sum(), avg(), max(), etc., and using Loops like 'for loop' and 'while loop' wherever necessary. 
 
 The Analysis was performed to find out the necessary problems asked in this project to obtain final result 
 
