@@ -1,8 +1,8 @@
+# Performing Basic Calculculations using Python Language
+
 - U Kishore
 - B.com
 - Data Analyst
-
-# Performing Basic Calculculations using Python Language
 
 The main aim of the project was to perform basic calculations on mathematical functions, statistical functions,etc
 
